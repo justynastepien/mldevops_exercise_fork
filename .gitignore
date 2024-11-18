@@ -22,6 +22,8 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+.git/
+.ipynb_checkpoints/
 .installed.cfg
 *.egg
 MANIFEST
